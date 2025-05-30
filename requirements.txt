@@ -1,0 +1,15 @@
+torch
+torchvision
+torchaudio
+numpy
+matplotlib
+scikit-image
+pillow
+tqdm
+gdown
+opencv-python
+einops
+diffusers
+jupyterlab
+tensorboard
+opencv-python
